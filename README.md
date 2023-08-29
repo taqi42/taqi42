@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/Taqi Ansari-black?logo=github " height=50>
+  <a href="https://github.com/taqi42"><img alt="Taqi Ansari" src="https://img.shields.io/badge/Taqi Ansari-black?logo=github " height=50></a>
   <h3>Passionate Web Developer | Android Enthusiast</h3>
 </div>
 
