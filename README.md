@@ -40,5 +40,5 @@ Currently, I'm expanding my skill set in full-stack development:
 I'm passionate about networking and collaboration. Feel free to connect with me on LinkedIn for professional discussions or follow me on Twitter to stay updated with my journey.
 
  <blockquote style="background-color: #333; padding: 10px; border-radius: 5px;">
-   <p style="color: white;">"The only way to do great work is to love what you do." - Steve Jobs</p>
+   "The only way to do great work is to love what you do." - Steve Jobs
  </blockquote>
