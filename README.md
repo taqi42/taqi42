@@ -32,13 +32,3 @@ Currently, I'm expanding my skill set in full-stack development:
 - **Testing**: Embracing Test-Driven Development (TDD) for ensuring code quality and reliability.
 - **Design**: Incorporating UI/UX design principles to create intuitive and user-friendly interfaces.
 
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taqi42/) &nbsp;&nbsp;&nbsp;&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/taqi_42)
-
-I'm passionate about networking and collaboration. Feel free to connect with me on LinkedIn for professional discussions or follow me on Twitter to stay updated with my journey.
-
- <blockquote style="background-color: #333; padding: 10px; border-radius: 5px;">
-   "The only way to do great work is to love what you do." - Steve Jobs
- </blockquote>
