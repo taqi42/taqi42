@@ -1,34 +1,36 @@
-<div align="center">
-  <a href="https://github.com/taqi42"><img alt="Taqi Ansari" src="https://img.shields.io/badge/Taqi Ansari-black?logo=github " height=50></a>
-  <h3>Passionate Web Developer | Android Enthusiast</h3>
-</div>
+# Taqi Ansari
 
-<div align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=HTML5"height=30>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-black?logo=CSS3" height=30>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-black?logo=SASS" height=30>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" height=30>
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-black?logo=jQuery" height=30>
-  <img alt="React" src="https://img.shields.io/badge/React-black?logo=React" height=30>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=Redux" height=30>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap" height=30>
-</div>
+Backend developer based. Currently focused on Node.js, Express, and MongoDB — with a strong interest in self-hosting, privacy tooling, and Linux.
 
 ---
 
-Hello there! 👋 I'm Taqi Ansari, a dedicated web developer with a penchant for Android development. I thrive on crafting seamless digital experiences that combine both aesthetics and functionality. Collaborate with me to bring your web projects to life!
+### Stack
 
-### 💼 Professional Summary
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-000?style=flat-square&logo=linuxmint)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 
-- Proven expertise in web development with a strong focus on front-end technologies.
-- Proficient in HTML5, CSS3, JavaScript, jQuery, React.js, Redux, Bootstrap, and Sass, ensuring visually appealing and responsive designs.
-- Skilled in user-centered design principles, enhancing user experiences and usability.
-- Continuously learning and adapting to new technologies, such as Node.js, Express.js, and MongoDB.
+---
 
-### 🌱 Learning Journey
+### Projects
 
-Currently, I'm expanding my skill set in full-stack development:
-- **Backend**: Exploring Node.js, Express.js, and MongoDB to create robust and scalable applications.
-- **Testing**: Embracing Test-Driven Development (TDD) for ensuring code quality and reliability.
-- **Design**: Incorporating UI/UX design principles to create intuitive and user-friendly interfaces.
+| Project | Description |
+|---|---|
+| **Brave !Bangs** | Custom bang redirect tool with Brave Search as fallback |
+| **FreshRSS** | Self-hosted RSS reader via Docker |
+| **WireGuard Server** | Self-hosted VPN setup from scratch |
+| **yt-dlp GUI** | Desktop media downloader with audio/video quality selection |
+
+---
+
+### Currently
+
+- Backend development with Node.js, Express, MongoDB
+- Data Structures & Algorithms in JavaScript
+- Transitioning daily driver to Linux Mint Cinnamon
 
